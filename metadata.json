@@ -1,0 +1,12 @@
+{
+  "name": "Yash Human Raksha",
+  "description": "A modern, mobile-first emergency response and safety application with high-contrast SOS, real-time tracking, silent triggers, safe routing, fake calls, and cyber safety support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
